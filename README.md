@@ -18,6 +18,7 @@ Attached are my 4 coding to extract 4 tables used in data analysis.
 ![customer table](https://user-images.githubusercontent.com/60421868/163728214-d32a1285-f151-4270-8a8e-28c952e00353.png)
 
 4. Date
+
 ![date coding](https://user-images.githubusercontent.com/60421868/163728215-b5eb2fd4-2450-4422-a128-37dec0e14943.png)
 ![date table](https://user-images.githubusercontent.com/60421868/163728216-7976c895-37eb-421b-b3f9-2291ff3723cf.png)
 
